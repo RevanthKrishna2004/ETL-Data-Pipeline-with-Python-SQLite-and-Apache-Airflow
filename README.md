@@ -30,8 +30,7 @@ and monitoring.
 The pipeline follows the standard ETL workflow:
 
 ![A blue rectangle with white text Description automatically
-generated](media/image1.png){width="6.5in"
-height="1.7729166666666667in"}
+generated](media/image1.png)
 
 **Extract → Transform → Load**
 
