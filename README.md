@@ -1,5 +1,4 @@
 # ETL-Data-Pipeline-with-Python-SQLite-and-Apache-Airflow
-ETL Data Pipeline with Python, SQLite, and Apache Airflow
 **ETL Data Pipeline with Python, SQLite, and Apache Airflow**
 
 This project implements a complete **ETL (Extract, Transform, Load)
